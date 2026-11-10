@@ -1,0 +1,16 @@
+{
+ "name": "DokuFactory",
+ "short_name": "DokuFactory",
+ "start_url": "/dokufactoy-prototyp/",
+ "display": "standalone",
+ "background_color": "#ffffff",
+ "theme_color": "#121417",
+ "lang": "de",
+ "icons": [
+  {
+   "src": "/dokufactoy-prototyp/assets/img/dokufactory-logo.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  }
+ ]
+}
